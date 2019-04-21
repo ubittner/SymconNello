@@ -1,0 +1,11 @@
+{
+	"id": "{0029BC2B-B0D2-4BC4-9D7E-08A9D8061F10}",
+	"name": "NelloOne",
+	"type": 3,
+	"vendor": "Nello",
+	"aliases": [ "Nello One" ],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "NELLO"
+}

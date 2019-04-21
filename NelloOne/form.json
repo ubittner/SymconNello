@@ -1,0 +1,332 @@
+{
+  "elements": [
+    {
+      "type": "Image",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "type": "Label",
+      "caption": "Nello One - A project of Ulrich Bittner"
+    },
+    {
+      "type": "Label",
+      "caption": " "
+    },
+    {
+      "type": "Label",
+      "caption": "Description:"
+    },
+    {
+      "type": "Label",
+      "caption": "This instance integrates the Nello One, the secure keyless access upgrade for your intercom, into IP-Symcon."
+    },
+    {
+      "type": "Label",
+      "caption": "You can receive a notification when someone rings the doorbell and you can open the door."
+    },
+    {
+      "type": "Label",
+      "caption": "For further information, please refer to the documentation or the notes here in the configuration."
+    },
+    {
+      "type": "Label",
+      "caption": " "
+    },
+    {
+      "type": "Label",
+      "caption": "Configuration:"
+    },
+    {
+      "type": "ExpansionPanel",
+      "caption": "(0) Instance information",
+      "items": [
+        {
+          "type": "Label",
+          "caption": "Symcon version:\t5.1>"
+        },
+        {
+          "type": "Label",
+          "caption": "Module version:\t2.01-2001"
+        },
+        {
+          "type": "Label",
+          "caption": "Date:\t\t\tApril 19, 2019"
+        },
+        {
+          "type": "Label",
+          "caption": "Time:\t\t\t10:00"
+        },
+        {
+          "type": "Label",
+          "caption": "Developer:\t\tUlrich Bittner"
+        },
+        {
+          "type": "Label",
+          "caption": "Prefix:\t\t\tNELLO"
+        }
+      ]
+    },
+    {
+      "type": "ExpansionPanel",
+      "caption": "(1) Token",
+      "items": [
+        {
+          "type": "Label",
+          "caption": "If no token is displayed, please use the button (1) Token REGISTER first or add your token manually."
+        },
+        {
+          "name": "Token",
+          "type": "ValidationTextBox",
+          "caption": "Token"
+        }
+      ]
+    },
+    {
+      "type": "ExpansionPanel",
+      "caption": "(2) Locations",
+      "items": [
+        {
+          "type": "Label",
+          "caption": "Please use the button (2) Locations IMPORT for automatic import or enter the data manually."
+        },
+        {
+          "type": "Label",
+          "caption": " "
+        },
+        {
+          "type": "List",
+          "name": "LocationList",
+          "rowCount": 5,
+          "add": true,
+          "delete": true,
+          "sort": {
+            "column": "Position",
+            "direction": "ascending"
+          },
+          "columns": [
+            {
+              "caption": "Position",
+              "name": "Position",
+              "width": "125px",
+              "add": "",
+              "edit": {
+                "type": "ValidationTextBox"
+              }
+            },
+            {
+              "caption": "Utilisation",
+              "name": "UseUtilisation",
+              "width": "125px",
+              "add": false,
+              "edit": {
+                "type": "CheckBox"
+              }
+            },
+            {
+              "caption": "Location ID",
+              "name": "LocationID",
+              "width": "350px",
+              "add": "",
+              "edit": {
+                "type": "ValidationTextBox"
+              }
+            },
+            {
+              "caption": "Street",
+              "name": "Street",
+              "width": "250px",
+              "add": "",
+              "edit": {
+                "type": "ValidationTextBox"
+              }
+            },
+            {
+              "caption": "City",
+              "name": "City",
+              "width": "250px",
+              "add": "",
+              "edit": {
+                "type": "ValidationTextBox"
+              }
+            },
+            {
+              "caption": "Country",
+              "name": "Country",
+              "width": "250px",
+              "add": "",
+              "edit": {
+                "type": "ValidationTextBox"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ExpansionPanel",
+      "caption": "(3) Webhook",
+      "items": [
+        {
+          "type": "Label",
+          "caption": "You can receive status information from your Nello One automatically. Please use the (3) Webhook ADD/UPDATE button to create the webhook."
+        },
+        {
+          "type": "Label",
+          "caption": " "
+        },
+        {
+          "type": "Label",
+          "caption": "Please enter any user name for authentification."
+        },
+        {
+          "name": "WebhookUsername",
+          "type": "ValidationTextBox",
+          "caption": "Username"
+        },
+        {
+          "type": "Label",
+          "caption": "Please enter any password for authentification."
+        },
+        {
+          "name": "WebhookPassword",
+          "type": "ValidationTextBox",
+          "caption": "Password"
+        }
+      ]
+    },
+    {
+      "type": "ExpansionPanel",
+      "caption": "(4) Push Notification",
+      "items": [
+        {
+          "type": "Label",
+          "caption": "Please select the corresponding WebFront instance to receive notifications about status changes when this function is activated."
+        },
+        {
+          "type": "Label",
+          "caption": " "
+        },
+        {
+          "type": "CheckBox",
+          "name": "UseNotification",
+          "caption": "Receive notifications"
+        },
+        {
+          "type": "SelectInstance",
+          "name": "WebFrontID",
+          "caption": "WebFront Instance"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Label",
+      "caption": "(0) Instance information"
+    },
+    {
+      "type": "Button",
+      "caption": "Manual",
+      "onClick": "echo 'https://github.com/ubittner/SymconNello';"
+    },
+    {
+      "type": "Label",
+      "caption": "(1) Token"
+    },
+    {
+      "type": "Button",
+      "caption": "Register",
+      "onClick": "echo NELLO_Register($id);"
+    },
+    {
+      "type": "Label",
+      "caption": "(2) Locations"
+    },
+    {
+      "type": "RowLayout",
+      "items": [
+        {
+          "type": "Button",
+          "caption": "List",
+          "onClick": "$locations = NELLO_GetLocations($id); print_r($locations);"
+        },
+        {
+          "type": "Button",
+          "caption": "Import",
+          "onClick": "NELLO_ImportLocations($id);"
+        },
+        {
+          "type": "Button",
+          "caption": "Open door",
+          "onClick": "NELLO_BuzzDoor($id);"
+        }
+      ]
+    },
+    {
+      "type": "Label",
+      "caption": "(3) Webhook"
+    },
+    {
+      "type": "RowLayout",
+      "items": [
+        {
+          "type": "Button",
+          "caption": "Add/update",
+          "onClick": "NELLO_AddUpdateWebhook($id);"
+        },
+        {
+          "type": "Button",
+          "caption": "Delete",
+          "onClick": "NELLO_DeleteWebhook($id);"
+        }
+      ]
+    }
+  ],
+  "status": [
+    {
+      "code": 101,
+      "icon": "active",
+      "caption": "Nello One will be created"
+    },
+    {
+      "code": 102,
+      "icon": "active",
+      "caption": "Nello One is active"
+    },
+    {
+      "code": 103,
+      "icon": "active",
+      "caption": "Nello One will be deleted"
+    },
+    {
+      "code": 104,
+      "icon": "inactive",
+      "caption": "Nello One is inactive"
+    },
+    {
+      "code": 201,
+      "icon": "error",
+      "caption": "An unknown error has occurred"
+    },
+    {
+      "code": 2111,
+      "icon": "error",
+      "caption": "No token found under (1) Token. Please register for a token first or add existing token."
+    },
+    {
+      "code": 2201,
+      "icon": "error",
+      "caption": "No data found under point (2) Locations. Please import the locations first."
+    },
+    {
+      "code": 2211,
+      "icon": "error",
+      "caption": "Please check the configuration under point (2) Locations."
+    },
+    {
+      "code": 2411,
+      "icon": "error",
+      "caption": "Please select a valid WebFrontID under point (4) Push Notification."
+    }
+  ]
+}
